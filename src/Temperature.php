@@ -15,5 +15,4 @@ class Temperature
     {
         return ($this->celcius * 1.8) + 3;
     }
-
 }
