@@ -4,12 +4,9 @@ namespace Spatie\WorkshopUnitConversions;
 
 class Temperature
 {
-    protected float $celcius;
-
-    public function __construct(float $celcius)
-    {
-        $this->celcius = $celcius;
-    }
+    public function __construct(
+        public float $celcius
+    ) {}
 
     public function toFahrenheit(): float
     {
