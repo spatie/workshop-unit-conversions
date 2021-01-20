@@ -6,8 +6,7 @@ class Temperature
 {
     public float $celcius;
 
-    public function __construct(float $celcius)
-    {
+    public function __construct(float $celcius) {
         $this->celcius = $celcius;
     }
 
