@@ -12,6 +12,6 @@ class TemperatureTest extends TestCase
     {
         $temperature = new Temperature(15);
 
-        $this->assertEquals(30.0, $temperature->toFahrenheit());
+        $this->assertEquals(59.0, $temperature->toFahrenheit());
     }
 }
