@@ -1,7 +1,7 @@
 # A package to perform unit conversions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/workshop-unit-conversions.svg?style=flat-square)](https://packagist.org/packages/spatie/workshop-unit-conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/workshop-unit-conversions/Tests?label=tests)](https://github.com/spatie/workshop-unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Tests Action Status](https://github.com/spatie/workshop-unit-conversions/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/workshop-unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/workshop-unit-conversions.svg?style=flat-square)](https://packagist.org/packages/spatie/workshop-unit-conversions)
 
 
